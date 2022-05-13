@@ -1,0 +1,7 @@
+Considere a classe Ornitorrinco.
+Embora sejam considerados oviparos, as fêmeas produzem leite
+e poderiam ter características de interesse já definidas na classe mamífero.
+Responda: De qual classe Ornitorrinco deveria herdar?
+
+R: Segundo pesquisas o Ornitorrinco é o unico mamífero oviparos existentes. A sua implementação depende das regras do sistema pois ele pode existir em ambas as classes.
+Há a possibilidade dele herdar de mamiferos e possuir características em sua classe que definem atributos presentes na Classe oviparo ou vice versa.
